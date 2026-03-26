@@ -74,7 +74,7 @@ export default async function DashboardPage() {
                   </div>
                 </div>
                 <button className="w-full py-3 border border-white/10 hover:border-brand-500/50 rounded-xl text-gray-300 hover:text-white transition-all text-sm font-medium flex items-center justify-center gap-2">
-                  View Entry Details <ArrowUpRight size={16} />
+                  View Entry Details
                 </button>
               </div>
             </div>
