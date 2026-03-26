@@ -1,6 +1,6 @@
 import { createClient } from '@/utils/supabase/server'
 import { redirect } from 'next/navigation'
-import { Users, Trophy, DollarSign, Activity } from 'lucide-react'
+import { Users, Trophy, DollarSign, Activity, Heart } from 'lucide-react'
 
 export default async function AdminDashboardPage() {
   const supabase = createClient()
